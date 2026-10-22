@@ -1,21 +1,12 @@
 {
   "apps": [
- 
-    {
-      "name": "Street Gangster OL",
-      "packageName": "com.gangster.crime.game.rog",
-      "targetAsin": "B0FY8FFCZR",
-      "storeUrl": "https://www.amazon.com/Real-Crime-Theft-Shooting-Action/dp/B0FY8FFCZR",
-      "rewardedVideoURL": "https://files.catbox.moe/i4vyc8.mp4"
-    },
     {
       "name": "Midnight Car Racing",
       "packageName": "com.car.racing.midnight.dts",
       "targetAsin": "B0GX34M692",
       "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
       "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
-    },
-    
+    },  
     {
       "name": "AirPlane Simulator",
       "packageName": "com.ikk.flight.pilot.airplane.games",
