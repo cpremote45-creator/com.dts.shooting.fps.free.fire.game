@@ -8,6 +8,13 @@
       "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
     {
+      "name": "Slayer Game Argon",
+      "packageName": "com.school.item.vehicle.factory.argon",
+      "targetAsin": "B0GMXW4Q97",
+      "storeUrl": "https://www.amazon.com/Builder-Stunt-Racing-School-Kids/dp/B0GMXW4Q97",
+      "rewardedVideoURL": "https://res.cloudinary.com/dabvtnnc/video/upload/v1795523688/Shadow_Slayer_V3.mp4"
+    },
+    {
       "name": "Football MM",
       "packageName": "com.footabll.championship.mm",
       "targetAsin": "B0H54QLYMK",
